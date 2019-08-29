@@ -93,4 +93,8 @@ spec:
         emptyDir: {}
       - name: data
         emptyDir: {}
+<<<<<<< HEAD
 {{- end }}
+=======
+{{- end }}
+>>>>>>> c6d7f8b04c2fabdec04edcf6541dec9296069d6a
